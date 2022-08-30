@@ -8,6 +8,6 @@ You can reach me through instagram @douglasbsouza01, telegram DouglasSouza05 and
 A curiosity about me is that one of my favourites games of all time is Dota 2 from Steam. If you play it and wants a partner, give me a call. Let's defend some ancients  🧠.
 
 <div> 
-<img src = "java-original-wordmark.svg" width = "80px" height = "100px">
+<img src = "java-original-wordmark.svg" width = "100px" height = "120px">
 </div>
 
