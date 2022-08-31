@@ -15,8 +15,6 @@ A curiosity about me is that one of my favourites games of all time is Dota 2 fr
 <img src = "blender-original-wordmark.svg" width = "150px" height = "125px">
 </div>
 
----
-
 <div id = "badges">
 <a href = "https://www.instagram.com/douglasbsouza01/">
   <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "Instagram Badge"/>
