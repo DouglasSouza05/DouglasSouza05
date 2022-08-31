@@ -18,7 +18,16 @@ A curiosity about me is that one of my favourites games of all time is Dota 2 fr
 ---
 
 <div id = "badges">
+<a href = "https://www.instagram.com/douglasbsouza01/">
+  <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "Instagram Badge"/>
+</a>
+<a href = "https://web.telegram.org/z/">
+  <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram Badge"/>
+</a>
 <a href = "https://www.linkedin.com/in/douglas-brand%C3%A3o-88a1b71a2/">
   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn Badge"/>
+</a>
+<a href = "https://web.whatsapp.com/">
+  <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt = "Whatsapp Badge"/>
 </a>
 
