@@ -24,7 +24,7 @@ You can reach me through instagram @douglasbsouza01, telegram DouglasSouza05, Li
 </a>
 </div>
 
-A curiosity about me is that one of my favourites games of all time is Dota 2 from Steam. If you play it and wants a partner, give me a call. Let's defend some ancients  🧠.
+A curiosity about me is that one of my favourites games of all time is Dota 2 from Steam. If you play it and wants a partner, give me a call. Let's defend some ancients  💪.
 
 <div> 
 <img src = "cplusplus-original.svg" width = "90px" height = "110px">
