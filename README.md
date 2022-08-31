@@ -30,6 +30,7 @@ A curiosity about me is that one of my favourites games of all time is Dota 2 fr
 <a href = "https://web.whatsapp.com/">
   <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt = "Whatsapp Badge"/>
 </a>
+</div>
 
 ---
 
