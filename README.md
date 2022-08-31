@@ -12,7 +12,7 @@ A curiosity about me is that one of my favourites games of all time is Dota 2 fr
 <img src = "java-original-wordmark.svg" width = "120px" height = "140px">
 <img src = "python-original-wordmark.svg" width = "100px" height = "120px">
 <img src = "jetbrains-original.svg" width = "100px" height = "120px">
-<img src = "blender-original-wordmark.svg" width = "160px" height = "130px">
+<img src = "blender-original-wordmark.svg" width = "150px" height = "130px">
 </div>
 
 ---
