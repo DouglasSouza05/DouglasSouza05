@@ -1,7 +1,4 @@
-<div align = "center">
 <img src = "giphy.gif" width = "325px">
-<img src = "giphy_brasil.gif" width = "245px">
-</div>
 
 # Hello there stranger 👽, be welcome to my Github! Feel free to look at all my projects made so far 😎.
 I'm currently studying at INATEL (Instituto Nacional de Telecomunicações) in Brasil ❤. So far, i've learnt C++, Java, SQL and little bit of Python and expecting to learn more about each one of them, and also others programming languagens out there. 
