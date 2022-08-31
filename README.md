@@ -15,6 +15,8 @@ A curiosity about me is that one of my favourites games of all time is Dota 2 fr
 <img src = "blender-original-wordmark.svg" width = "150px" height = "125px">
 </div>
 
+---
+
 <div id = "badges">
 <a href = "https://www.instagram.com/douglasbsouza01/">
   <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "Instagram Badge"/>
@@ -31,5 +33,15 @@ A curiosity about me is that one of my favourites games of all time is Dota 2 fr
 
 ---
 
-<img height = "200cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSouza05&show_icons=true&theme=ocean_dark&count_private=true">
-<img height = "200cm" src = "https://github-readme-stats.vercel.app/api?username=DouglasSouza05&show_icons=true&theme=ocean_dark&count_private=true">
+<div>
+<table style = "border: 0px solid;">
+  <tr>
+    <td>
+    <img height = "200cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSouza05&show_icons=true&theme=ocean_dark&count_private=true">
+    </td>
+    <td>
+    <img height = "200cm" src = "https://github-readme-stats.vercel.app/api?username=DouglasSouza05&show_icons=true&theme=ocean_dark&count_private=true">
+    </td>
+  </tr>
+</table>
+</div>
