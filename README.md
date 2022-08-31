@@ -8,10 +8,10 @@ You can reach me through instagram @douglasbsouza01, telegram DouglasSouza05 and
 A curiosity about me is that one of my favourites games of all time is Dota 2 from Steam. If you play it and wants a partner, give me a call. Let's defend some ancients  🧠.
 
 <div> 
-<img src = "cplusplus-original.svg" width = "80px" height = "100px">
+<img src = "cplusplus-original.svg" width = "90px" height = "110px">
 <img src = "java-original-wordmark.svg" width = "120px" height = "140px">
 <img src = "python-original-wordmark.svg" width = "100px" height = "120px">
 <img src = "jetbrains-original.svg" width = "100px" height = "120px">
-<img src = "blender-original-wordmark.svg" width = "120px" height = "160px">
+<img src = "blender-original-wordmark.svg" width = "120px" height = "130px">
 </div>
 
