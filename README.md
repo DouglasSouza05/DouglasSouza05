@@ -33,5 +33,14 @@ A curiosity about me is that one of my favourites games of all time is Dota 2 fr
 
 ---
 
-<img height = "200cm" align "left' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSouza05&show_icons=true&theme=radical&count_private=true" />
-
+<div>
+<table style = "border: 0px solid;">
+  <tr>
+    <td>
+      <img height = "200cm" align "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSouza05&show_icons=true&theme=radical&count_private=true"/>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+</div>
