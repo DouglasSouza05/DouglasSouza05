@@ -1,6 +1,6 @@
 <div align = "center">
 <img src = "giphy.gif" width = "325px">
-<img src = "
+<img src = "giphy_brasil.gif" width = "245px">
 </div>
 
 # Hello there stranger 👽, be welcome to my Github! Feel free to look at all my projects made so far 😎.
