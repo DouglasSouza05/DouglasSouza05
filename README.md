@@ -6,7 +6,7 @@
 # Hello there stranger 👽, be welcome to my Github! Feel free to look at all my projects made so far 😎.
 I'm currently studying at INATEL (Instituto Nacional de Telecomunicações) in Brasil ❤. So far, i've learnt C++, Java, SQL, Python and little bit of JavaScript and expecting to learn more about each one of them, and also other programming languagens out there. 
 I am looking forward to getting a chance to work on games development 👾, robotics industry 🤖 or the cybersecurity area 🐱‍💻. Very interested in each one of these 🤓.
-One project i've made is the old but gold Snake Game made with Java that you can find on the ProjetoFinal_POO_Snake_Game repository, just a simple project for my class but hope you like it 😄. Currently working and studying more about Fast Api and Broker Mqtt using Python, very interesting 🧐.
+One project i've made is the old but gold Snake Game made with Java that you can find on the ProjetoFinal_POO_Snake_Game repository, just a simple project for my class but hope you like it 😄. Another project i've made in the past couple weeks is my To Do List, using HTML, CSS & JavaScript. Please check it out whenever you can, hope you enjoy the color pallet haha. Currently working and studying more about Fast Api and Broker Mqtt using Python, very interesting 🧐.
 You can reach me through instagram @douglasbsouza01, telegram DouglasSouza05, LinkedIn Douglas Brandão and finally Whatsapp (55) 35 98821-4957 👀. Or you can go through the badges below 😵.
 
 <div>
