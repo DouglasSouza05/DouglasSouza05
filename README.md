@@ -30,8 +30,6 @@ You can reach me through LinkedIn Douglas Brandão, Instagram @douglasbsouza01 a
 <img src = "csharp.svg" width = "90px" height = "115px">
 <img src = "java-original-wordmark.svg" width = "120px" height = "140px">
 <img src = "Css_Html.svg" width = "200px" height = "125px">
-<img src = "jetbrains-original.svg" width = "105px" height = "120px">
-<img src = "blender-original-wordmark.svg" width = "150px" height = "125px">
 </div>
 
 ---
