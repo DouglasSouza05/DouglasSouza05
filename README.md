@@ -9,17 +9,14 @@ I am looking forward to getting a chance to work on softwares development 👾, 
 One project i've made is the old Snake Game made with Java that you can find on the POO_Snake_Game repository, just a simple project for my class but hope you like it. Another project i've made in the past couple weeks is my To Do List, using HTML, CSS & JavaScript that you can find on ToDoList-HTML-CSS-JS. Please check it out whenever you can, hope you enjoy the color pallet haha 😄.
 Other projects i've made couple months ago were a Agenda App using mainly python and a Units Converter using C# for my college's assignments 🎓. Both of them have User Interface (UI), Unit Tests as well as a Unit Testing Framework, Tests Results, Continuous Integration Practices (CI) and Pipeline Configurations through Github Actions 🔥. These projetcs were made along with some friends from Inatel as a team, each one focusing on a specific task for the final result. You can find them on Trabalho_Final_C214_Lab and Seminario_C214 repositories, respectively 🖥️. All instructions on Readme file.
 I have other's works (finished and unfinished) om my public repositories, in case you may want to check it out 👀.
-You can reach me through LinkedIn Douglas Brandão, instagram @douglasbsouza01 and finally Whatsapp (55) 35 98821-4957. Or you can go through the badges below 😵.
+You can reach me through LinkedIn Douglas Brandão, Instagram @douglasbsouza01 and finally Whatsapp (55) 35 98821-4957. Or you can go through the badges below 😵.
 
 <div>
-<a href = "https://www.instagram.com/douglasbsouza01/">
-  <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "Instagram Badge"/>
-</a>
-<a href = "https://web.telegram.org/z/">
-  <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram Badge"/>
-</a>
 <a href = "https://www.linkedin.com/in/douglas-brand%C3%A3o-88a1b71a2/">
   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn Badge"/>
+</a>
+<a href = "https://www.instagram.com/douglasbsouza01/">
+  <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "Instagram Badge"/>
 </a>
 <a href = "https://web.whatsapp.com/">
   <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt = "Whatsapp Badge"/>
@@ -27,12 +24,13 @@ You can reach me through LinkedIn Douglas Brandão, instagram @douglasbsouza01 a
 </div>
 
 <div> 
-<img src = "cplusplus-original.svg" width = "90px" height = "110px">
-<img src = "java-original-wordmark.svg" width = "120px" height = "140px">
+<img src = "cplusplus-original.svg" width = "100px" height = "110px">
 <img src = "python-original-wordmark.svg" width = "100px" height = "120px">
-<img src = "javascript.svg" width = "100px" height = "120px">
-<img src = "c#.svg" width = "100px" height = "120px">
-<img src = "jetbrains-original.svg" width = "100px" height = "120px">
+<img src = "javascript.svg" width = "115px" height = "100px">
+<img src = "csharp.svg" width = "90px" height = "115px">
+<img src = "java-original-wordmark.svg" width = "120px" height = "140px">
+<img src = "Css_Html.svg" width = "200px" height = "125px">
+<img src = "jetbrains-original.svg" width = "105px" height = "120px">
 <img src = "blender-original-wordmark.svg" width = "150px" height = "125px">
 </div>
 
