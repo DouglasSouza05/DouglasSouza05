@@ -28,7 +28,6 @@ You can reach me through LinkedIn Douglas Brandão, instagram @douglasbsouza01 a
 
 <div> 
 <img src = "cplusplus-original.svg" width = "90px" height = "110px">
-<img src = "Javascript badge.svg" width = "120px" height = "140px">
 <img src = "java-original-wordmark.svg" width = "120px" height = "140px">
 <img src = "python-original-wordmark.svg" width = "100px" height = "120px">
 <img src = "jetbrains-original.svg" width = "100px" height = "120px">
