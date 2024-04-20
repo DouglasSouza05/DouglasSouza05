@@ -15,7 +15,7 @@ You can reach me through LinkedIn Douglas Brandão, Instagram @douglasbsouza01 a
 <a href = "https://douglassouza05.github.io/DouglasSouzaPortfolio.github.io/">
   <img src = "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt = "Portfolio Badge"/>
 </a>
-<a href = "https://www.linkedin.com/in/douglas-souza-88a1b71a2/">
+<a href = "https://www.linkedin.com/in/douglas-brand%C3%A3o-de-souza-88a1b71a2/">
   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn Badge"/>
 </a>
 <a href = "https://www.instagram.com/douglasbsouza01/">
