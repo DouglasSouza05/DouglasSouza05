@@ -10,11 +10,11 @@ I also have basic experience with Relational and Non-Relational Databases such a
 Want to contact me? You can reach me through the badges below 😵.
 
 <div>
-<a href = "https://douglassouza05.github.io/DouglasSouzaPortfolio.github.io/">
-  <img src = "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt = "Portfolio Badge"/>
-</a>
 <a href = "https://www.linkedin.com/in/douglas-brand%C3%A3o-de-souza-88a1b71a2/">
   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn Badge"/>
+</a>
+<a href = "https://douglassouza05.github.io/DouglasSouzaPortfolio.github.io/">
+  <img src = "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt = "Portfolio Badge"/>
 </a>
 <a href = "https://www.instagram.com/douglasbsouza01/">
   <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "Instagram Badge"/>
