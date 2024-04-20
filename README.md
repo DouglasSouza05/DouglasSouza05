@@ -12,17 +12,14 @@ I have other's works (finished and unfinished) om my public repositories, in cas
 You can reach me through LinkedIn Douglas Brandão, Instagram @douglasbsouza01 and finally Whatsapp (55) 35 98821-4957. Or you can go through the badges below 😵.
 
 <div>
-<a href = "https://www.linkedin.com/in/douglas-souza-88a1b71a2/">
-  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn Badge"/>
+<a href = "https://douglassouza05.github.io/DouglasSouzaPortfolio.github.io/">
+  <img src = "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt = "Portfolio Badge"/>
 </a>
-  <a href = "https://douglassouza05.github.io/DouglasSouzaPortfolio.github.io/">
+<a href = "https://www.linkedin.com/in/douglas-souza-88a1b71a2/">
   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn Badge"/>
 </a>
 <a href = "https://www.instagram.com/douglasbsouza01/">
   <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "Instagram Badge"/>
-</a>
-<a href = "https://web.whatsapp.com/">
-  <img src = "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt = "Portfolio Badge"/>
 </a>
 </div>
 
