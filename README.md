@@ -4,8 +4,8 @@
 </div>
 
 # Hello There Stranger 👽, Be Welcome To My Github! Feel Free To Look At All My Projects Made So Far.
-My name is Douglas Brandão de Souza, a Backend Web Developer with an interest in Desktop Software as well, and a student at INATEL (National Institute of Telecommunications) in Brazil ❤. I'm pursuing a degree in Computer Engineering with an expected completion date at the end of 2024 🎓. Currently living in Pouso Alegre, Minas Gerais, and seeking an internship to deepen my knowledge in Web Development 👀.
-So far, I have gained experience with different programming languages such as C#, Java, Python, and JavaScript, creation of Unit Tests and Mocks 🐱‍💻, practices of Continuous Integration and Continuous Deployment (CI/CD) 🤖, basic knowledge of Frameworks and Libraries such as ExpressJS, Windows Forms and PyQt5, and Pipeline structuring with Github Actions and Jenkins 🔥. 
+My name is Douglas Brandão de Souza, a Backend Web Developer with an interest in Desktop Software as well, and a student at INATEL (National Institute of Telecommunications) in Brazil ❤. I'm pursuing a degree in Computer Engineering with an expected completion date at the end of 2024 🎓. Currently living in Pouso Alegre, Minas Gerais, and seeking an internship to deepen my knowledge in Web Development.
+So far, I have gained experience with different programming languages such as C#, Java, Python, and JavaScript, creation of Unit Tests and Mocks, practices of Continuous Integration and Continuous Deployment (CI/CD) 🤖, basic knowledge of Frameworks and Libraries such as ExpressJS, Windows Forms and PyQt5, and Pipeline structuring with Github Actions and Jenkins 🔥. 
 I also have basic experience with Relational and Non-Relational Databases such as MySQL and MongoDB, Markup and Styling languages like HTML and CSS 👾, and knowledge of Backend application deployment with Render 🖥️.
 Want to contact me? You can reach me through the badges below 😵.
 
